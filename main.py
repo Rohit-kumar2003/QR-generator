@@ -1,3 +1,5 @@
+pip install qrcode
+
 import qrcode
 
 # Step 1: Define the URL
